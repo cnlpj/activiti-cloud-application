@@ -10,7 +10,7 @@
   </parent>
   <groupId>org.activiti.cloud</groupId>
   <artifactId>activiti-cloud-dependencies-parent</artifactId>
-  <version>7.1.947</version>
+  <version>7.1.0-M10MOCK1</version>
   <packaging>pom</packaging>
   <name>Activiti Cloud :: BOM (Bill of Materials) Parent</name>
   <properties>
@@ -18,7 +18,7 @@
     <java.version>1.${java.release}</java.version>
     <license-maven-plugin.version>3.0</license-maven-plugin.version>
     <maven.compiler.release>${java.release}</maven.compiler.release>
-    <activiti-cloud.version>7.1.566</activiti-cloud.version>
+    <activiti-cloud.version>7.1.0-M10MOCK1</activiti-cloud.version>
   </properties>
   <repositories>
     <repository>
